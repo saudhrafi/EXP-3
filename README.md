@@ -1,5 +1,5 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                  
+EXPT NO: 3				STAIR CASE WIRING                     
 
  
 AIM
@@ -40,16 +40,24 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-<img width="1038" height="610" alt="image" src="https://github.com/user-attachments/assets/05da0d2a-31e0-438f-bcbe-7adb76a89b01" />
+<img width="880" height="421" alt="on 1" src="https://github.com/user-attachments/assets/d7d17075-4cd9-4cef-ad4a-380c826a70c0" />
+
+<img width="882" height="404" alt="on 2" src="https://github.com/user-attachments/assets/165825e4-4d63-485b-9eeb-8ec8ebba5f2f" />
+
+
 Tabulation:1
-![WhatsApp Image 2025-10-16 at 20 59 36_860b7c81](https://github.com/user-attachments/assets/c8071af3-4c20-45e2-8cfb-03acd7b756fa)
-	
+
+
+
 Cross connection: CIRCUIT DIAGRAM:
-<img width="1031" height="517" alt="image" src="https://github.com/user-attachments/assets/830795bc-2c4d-40e7-a5cb-628b5f2250a4" />
+<img width="937" height="349" alt="off 1" src="https://github.com/user-attachments/assets/a9208f3e-29d6-48ed-86de-52b94eaa9748" />
+
+<img width="867" height="373" alt="off 2" src="https://github.com/user-attachments/assets/6fb948cd-c8af-4b39-b389-6f303045ee5d" />
 
 
 Tabulation:2
-![WhatsApp Image 2025-10-16 at 20 59 37_2f6ca972](https://github.com/user-attachments/assets/84011201-3b79-4c3a-92bd-a74cee23b7fb)
+
 
 RESULT:
+
 Thus the staircase wiring is connected and tested.
